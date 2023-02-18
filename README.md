@@ -13,9 +13,9 @@
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-## 🎯 Skills
+<br/>
 
-### ⌨️ Programming languages
+## 🎯 Skills
 
 <p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript"
@@ -27,8 +27,6 @@
     <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"
         src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 </p>
-
-### 🎛 Frameworks and runtime environments
 
 <p>
     <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
@@ -43,8 +41,6 @@
         src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
 </p>
 
-### 🗃 Package, dependency, and environment management
-
 <p>
     <a href="https://docs.conda.io" target="_blank"><img alt="Conda"
         src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/></a>
@@ -53,8 +49,6 @@
     <a href="https://yarnpkg.com" target="_blank"><img alt="Yarn"
         src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/></a>
 </p>
-
-### 🛠 Toolings, platforms, infrastructure providers, and libraries
 
 <p>
     <a href="https://aws.amazon.com" target="_blank"><img alt="AWS"
@@ -76,18 +70,24 @@
         src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
 </p>
 
-### 💰 Funding
+<br/>
+
+## 💰 Funding
 
 <p>
     <a href="https://etherscan.io/address/rubilmax.eth" target="_blank"><img alt="Ethereum"
         src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>
 </p>
 
+<br/>
+
 ## 🔎 Stats
 
-<a href="https://github-readme-stats.vercel.app/api?username=Rubilmax&count_private=true&show_icons=true&theme=tokyonight" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rubilmax&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubilmax&layout=compact&langs_count=8&theme=tokyonight" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubilmax&layout=compact&langs_count=8&theme=tokyonight" />
-</a>
+<p align="center">
+    <a href="https://github-readme-stats.vercel.app/api?username=Rubilmax&count_private=true&show_icons=true&theme=tokyonight" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api?username=Rubilmax&count_private=true&show_icons=true&theme=tokyonight" />
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubilmax&layout=compact&langs_count=8&theme=tokyonight" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubilmax&layout=compact&langs_count=8&theme=tokyonight" />
+    </a>
+</p>

@@ -18,14 +18,16 @@
 ## 🎯 Skills
 
 <p>
+    <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"
+        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript"
         src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
     <a href="https://www.python.org" target="_blank"><img alt="Python"
         src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
     <a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"
         src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
-    <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"
-        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+    <a href="https://www.java.com/en/" target="_blank"><img alt="Java"
+        src="https://img.shields.io/badge/Java-006B8F?style=for-the-badge"/></a>
 </p>
 
 <p>
@@ -53,6 +55,8 @@
 <p>
     <a href="https://aws.amazon.com" target="_blank"><img alt="AWS"
         src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
+    <a href="https://cloud.google.com/" target="_blank"><img alt="GCP"
+        src="https://img.shields.io/badge/Google_GCP-888?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
     <a href="https://www.cloudflare.com" target="_blank"><img alt="Cloudflare"
         src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/></a>
     <a href="https://git-scm.com" target="_blank"><img alt="Git"

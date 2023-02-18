@@ -85,6 +85,9 @@
 
 ## 🔎 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rubilmax&count_private=true&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubilmax&layout=compact&langs_count=8)
+<a href="https://github-readme-stats.vercel.app/api?username=Rubilmax&count_private=true&show_icons=true&theme=tokyonight" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rubilmax&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubilmax&layout=compact&langs_count=8&theme=tokyonight" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubilmax&layout=compact&langs_count=8&theme=tokyonight" />
+</a>

@@ -5,8 +5,6 @@
         <img width="278" alt="foundry-storage-check" src="https://github-readme-stats.vercel.app/api/pin/?username=Rubilmax&repo=foundry-storage-check&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&description_lines_count=3"></a>
 </p>
 <p align="center">
-    <a href="https://github.com/Rubilmax/safe-allowance-spender">
-        <img width="278" alt="safe-allowance-spender" src="https://github-readme-stats.vercel.app/api/pin/?username=Rubilmax&repo=safe-allowance-spender&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&description_lines_count=3"></a>
     <a href="https://github.com/Rubilmax/executooor">
         <img width="278" alt="executooor" src="https://github-readme-stats.vercel.app/api/pin/?username=Rubilmax&repo=executooor&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&description_lines_count=3"></a>
     <a href="https://github.com/morpho-labs/safer">

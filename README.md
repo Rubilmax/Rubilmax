@@ -1,10 +1,12 @@
 <p align="center">
     <a href="https://github.com/Rubilmax/executooor">
         <img width="278" alt="executooor" src="https://github-readme-stats.vercel.app/api/pin/?username=Rubilmax&repo=executooor&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&description_lines_count=3"></a>
-    <a href="https://github.com/Rubilmax/viem-deal">
-        <img width="278" alt="viem-deal" src="https://github-readme-stats.vercel.app/api/pin/?username=Rubilmax&repo=viem-deal&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&description_lines_count=3"></a>
+    <a href="https://github.com/Rubilmax/viem-tracer">
+        <img width="278" alt="viem-tracer" src="https://github-readme-stats.vercel.app/api/pin/?username=Rubilmax&repo=viem-tracer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&description_lines_count=3"></a>
     <a href="https://github.com/Rubilmax/evm-maths">
         <img width="278" alt="evm-maths" src="https://github-readme-stats.vercel.app/api/pin/?username=Rubilmax&repo=evm-maths&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&description_lines_count=3"></a>
+    <a href="https://github.com/Rubilmax/viem-deal">
+        <img width="278" alt="viem-deal" src="https://github-readme-stats.vercel.app/api/pin/?username=Rubilmax&repo=viem-deal&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&description_lines_count=3"></a>
 </p>
 <p align="center">
     <a href="https://github.com/Rubilmax/foundry-gas-diff">
